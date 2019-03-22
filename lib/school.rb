@@ -26,7 +26,7 @@ end
 
 def sort
   sorted={}
-roster.each do |name, grade|
+roster.each do |grade,name|
   sorted[grade]=name.sort
 end
 sorted
