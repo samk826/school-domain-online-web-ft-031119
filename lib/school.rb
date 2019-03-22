@@ -32,4 +32,3 @@ roster.each do |grade, name|
 end
 sorted
 end
-end
