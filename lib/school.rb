@@ -29,6 +29,6 @@ def sort
 roster.each do |name, grade|
   sorted[grade] = name.sort
 end
-end
 sorted
+end
 end
